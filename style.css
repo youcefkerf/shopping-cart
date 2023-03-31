@@ -1,0 +1,28 @@
+#main{
+    display: flex;
+  justify-content: center;
+}
+
+#all{
+    display: flex;
+    gap: 1rem;
+    border: 2px solid blue;
+    padding: 1rem;
+    width: 50%;
+    justify-content: center;
+}
+
+#item-list{
+    border: 2px solid blue;
+    padding: 1rem;
+}
+#shopping-cart{
+    border: 2px solid blue;
+    padding: 1rem;
+}
+
+.items{
+    border: 2px solid red;
+    padding: 0.2rem;
+    margin: 0.5rem;
+}
